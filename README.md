@@ -1,2 +1,2 @@
 # Scrapper-12th-result-2018
-Scrap results of 2018 cbse 12th between range of registeration numbers
+You can give range of valid registeration numbers and their school code and center number and scrap their results in a `.txt` file, and search for names and their results.
